@@ -1,0 +1,3 @@
+STEPS TO LAUNCH THE PROGRAM
+COPY THE PROGRAM TO STUDIO => INITIALIZE VIRTUAL ENVIROMENT => OPEN TERMINAL => pip install -r requirements.txt => python main.py
+
